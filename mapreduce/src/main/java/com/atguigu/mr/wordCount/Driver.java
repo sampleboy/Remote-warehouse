@@ -14,6 +14,7 @@ import java.io.IOException;
 
 
 public class Driver {
+
     public static void main(String[] args) throws IOException, ClassNotFoundException, InterruptedException {
 //        1.获取job实例；
         Job job = Job.getInstance(new Configuration());
