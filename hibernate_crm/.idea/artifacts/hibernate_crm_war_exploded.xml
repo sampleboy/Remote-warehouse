@@ -14,7 +14,7 @@
           <element id="module-output" name="hibernate_crm" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="Maven: org.jetbrains:annotations:20.1.0" />
+          <element id="library" level="project" name="Maven: org.jetbrains:annotations:13.0" />
         </element>
       </element>
       <element id="directory" name="META-INF">

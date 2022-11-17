@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8c0da98-bb24-46f0-a812-c4beaa0d7b28" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../../hibernate_crm/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hibernate_crm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HdfsClientDemon/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HdfsClientDemon/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HdfsClientDemon/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HdfsClientDemon/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HdfsClientDemon/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HdfsClientDemon/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HdfsClientDemon/HdfsClientDemon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HdfsClientDemon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HdfsClientDemon/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HdfsClientDemon/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/spark/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/atguigu/spark/SparkStreaming01_DirectAPI010.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atguigu/spark/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCoreTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCoreTest/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCoreTest/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCoreTest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCoreTest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCoreTest/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCoreTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCoreTest/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCoreTest/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCoreTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCoreTest/input/01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCoreTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCoreTest/src/main/scala/com/atguigu/spark/day01/Spark03_Partition_default.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCoreTest/src/main/scala/com/atguigu/spark/day01/Spark04_Partition_mem.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCoreTest/src/main/scala/com/atguigu/spark/day01/Spark05_Partition_file.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCoreTest/src/main/scala/com/atguigu/spark/day01/spark01_createrdd_file.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordCountAdmint/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordCountAdmint/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordCountAdmint/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordCountAdmint/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordCountAdmint/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordCountAdmint/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordCountAdmint/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordCountAdmint/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WordCountAdmint/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zookeeper/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zookeeper/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zookeeper/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zookeeper/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zookeeper/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zookeeper/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zookeeper/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zookeeper/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zookeeper/src/main/java/com/atguigu/zookeeper/zk_client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zookeeper/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hibernate_crm/.idea/artifacts/hibernate_crm_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hibernate_crm/.idea/artifacts/hibernate_crm_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hibernate_crm/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hibernate_crm/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hibernate_crm/.idea/libraries/Maven__org_jetbrains_annotations_20_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hibernate_crm/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hibernate_crm/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hibernate_crm/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hibernate_crm/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hibernate_crm/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hibernate_crm/hibernate_crm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hibernate_crm/hibernate_crm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hibernate_crm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../hibernate_crm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hibernate_crm/src/main/java/com/example/hibernate_crm/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../hibernate_crm/src/main/java/com/example/hibernate_crm/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hibernate_crm/target/classes/com/example/hibernate_crm/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../hibernate_crm/target/classes/com/example/hibernate_crm/HelloServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hibernate_crm/target/hibernate_crm-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../hibernate_crm/target/hibernate_crm-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hibernate_crm/target/hibernate_crm-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../../hibernate_crm/target/hibernate_crm-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hibernate_crm/target/hibernate_crm-1.0-SNAPSHOT/WEB-INF/classes/com/example/hibernate_crm/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../hibernate_crm/target/hibernate_crm-1.0-SNAPSHOT/WEB-INF/classes/com/example/hibernate_crm/HelloServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_4_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_4_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_4_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_4_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/out/production/restartUp01/com/ithima_01/NewStudy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/restartUp01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restartUp01/src/com/ithima_01/NewStudy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../上传到远程.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2FGOABq0etiQkaxsyrQuQtaHEoM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/ideaproject/new/Spark-kafka-0-10/target/classes"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaproject\new\Spark-kafka-0-10\target\classes" />
+      <recent name="E:\ideaproject\new\Spark-kafka-0-10\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AppTest.shouldAnswerWithTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spark-kafka-0-10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.spark" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spark.AppTest" />
+      <option name="METHOD_NAME" value="shouldAnswerWithTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest.shouldAnswerWithTrue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="c8c0da98-bb24-46f0-a812-c4beaa0d7b28" name="变更" comment="" />
+      <created>1664114810934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664114810934</updated>
+      <workItem from="1664114822596" duration="4667000" />
+      <workItem from="1664120031481" duration="57000" />
+      <workItem from="1664120094197" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
